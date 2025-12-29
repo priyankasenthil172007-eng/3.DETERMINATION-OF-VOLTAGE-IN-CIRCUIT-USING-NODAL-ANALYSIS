@@ -1,5 +1,6 @@
 # 3.DETERMINATION-OF-VOLTAGE-IN-CIRCUIT-USING-NODAL-ANALYSIS
-
+## NAME:PRIYANKA S
+## REF.NO:25017930
 **AIM:**
 
 To determine the voltage in the circuit using nodal analysis both theoretically and practically for a given DC circuit.
@@ -19,6 +20,10 @@ To determine the voltage in the circuit using nodal analysis both theoretically 
 In electric circuits analysis, nodal analysis, node-voltage analysis, or the branch current method is a method of determining the voltage (potential difference) between "nodes" (points where elements or branches connect) in an electrical circuit in terms of the branch currents.
 
 **Circuit diagram**
+![WhatsApp Image 2025-12-29 at 08 31 30_cf0c7601](https://github.com/user-attachments/assets/37d86e90-a69f-495d-a97f-411b9d1b2525)
+![WhatsApp Image 2025-12-29 at 08 31 30_5acb026b](https://github.com/user-attachments/assets/22ddd471-0390-42ab-8bbe-2eb5da9d8c8b)
+![WhatsApp Image 2025-12-29 at 08 31 31_a9afc848](https://github.com/user-attachments/assets/3d0a367a-3146-437e-8c02-aac49006fa54)
+![WhatsApp Image 2025-12-29 at 08 31 31_e9855414](https://github.com/user-attachments/assets/89c076de-ee58-446d-8ad7-4a94c92dc054)
 
 
  
